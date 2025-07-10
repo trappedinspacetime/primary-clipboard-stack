@@ -1,6 +1,6 @@
-## Kısayollar
-- Ctrl+1: En son kopyalananı yapıştır
-- Ctrl+2: Bir öncekini yapıştır
+## Shortcuts
+- Ctrl+1: Paste the last copied item
+- Ctrl+2: Paste the previous item
 - ...
-- Ctrl+5: En eski kaydı yapıştır
-- **Ctrl+0**: Tüm stack'i resetle (Yeni!)
+- Ctrl+5: Paste the oldest record
+- **Ctrl+0**: Reset the entire stack
